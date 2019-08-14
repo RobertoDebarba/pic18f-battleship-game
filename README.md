@@ -1,9 +1,9 @@
-# Battleship game for PIC18f4520 (PIC 18f)
+# Battleship game for PIC18F4520 (PIC18F)
 
-A simple battleship game made with Proteus for PIC18f4520.
+A simple battleship game made with Proteus for PIC18F4520.
 
-You can run on [Proteus](http://www.labcenter.com)
-[Protheus project file](https://github.com/RobertoDebarba/pic18f-battleship-game/blob/master/PIC18F4620.pdsprj)
+You can run on [Proteus](http://www.labcenter.com)  
+[Protheus project file](https://github.com/RobertoDebarba/pic18f-battleship-game/blob/master/PIC18F4620.pdsprj)  
 
 ![game screen 1](https://github.com/RobertoDebarba/pic18f-battleship-game/blob/master/screenshot.png)
 
